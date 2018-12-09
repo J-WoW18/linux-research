@@ -1,6 +1,8 @@
 working from pinebook - armbian image
 download images for 
   nano pi  m4 - http://wiki.friendlyarm.com/wiki/index.php/FriendlyDesktop_18.04_for_RK3399
+          https://www.armbian.com/nanopi-m4/
+          Armbian Bionic Desktop: https://dl.armbian.com/nanopim4/Ubuntu_bionic_default_desktop.7z
   tinkerboard - https://tinkerboarding.co.uk/forum/thread-69.html
           Armbian Stretch :: https://dl.armbian.com/tinkerboard/Debian_stretch_next.7z
 
@@ -10,3 +12,6 @@ on tinkerboard
 armbian-config
 set wifi to static
 192.168.0.61 (node 1)
+
+on m4
+
