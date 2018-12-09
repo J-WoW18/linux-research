@@ -3,3 +3,10 @@ download images for
   nano pi  m4 - http://wiki.friendlyarm.com/wiki/index.php/FriendlyDesktop_18.04_for_RK3399
   tinkerboard - https://tinkerboarding.co.uk/forum/thread-69.html
           Armbian Stretch :: https://dl.armbian.com/tinkerboard/Debian_stretch_next.7z
+
+Following steps in https://kubecloud.io/setting-up-a-kubernetes-1-11-raspberry-pi-cluster-using-kubeadm-952bbda329c8
+
+on tinkerboard edit
+/etc/dhcp/dhclient.conf
+  added interface wlan0
+  fixed address 192.168.0.60
