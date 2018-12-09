@@ -6,7 +6,7 @@ download images for
 
 Following steps in https://kubecloud.io/setting-up-a-kubernetes-1-11-raspberry-pi-cluster-using-kubeadm-952bbda329c8
 
-on tinkerboard edit
-/etc/dhcp/dhclient.conf
-  added interface wlan0
-  fixed address 192.168.0.60
+on tinkerboard
+armbian-config
+set wifi to static
+192.168.0.61 (node 1)
