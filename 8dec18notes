@@ -15,3 +15,6 @@ set wifi to static
 
 on m4
 
+wget https://u0EtaQ8gHUowUd48:rIZ7VFrPfOqumwzQ@domains.google.com/nic/update?hostname=www.jwowlearn2code.com -O dns_update_results.txt
+
+
